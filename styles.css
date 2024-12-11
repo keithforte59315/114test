@@ -33,12 +33,12 @@ body {
     border-width: 1px;
     margin: 0 auto;
     background-color: white;
-    overflow: atuo;
+    overflow: auto;
 }
 
 
 header {
-    width: 100px;          
+    width: 100%;          
     margin: 0px;                
 	padding: 0px;           
     text-align: center;
@@ -48,8 +48,8 @@ header {
 
 header .logo {
     width: 100px;          
-    height: auto;           
-	display: block;     
+    height: 100px;           
+    display: block;     
 }
 
 nav {
