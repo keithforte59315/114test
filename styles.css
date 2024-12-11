@@ -33,11 +33,12 @@ body {
     border-width: 1px;
     margin: 0 auto;
     background-color: white;
+    overflow: atuo;
 }
 
 
 header {
-    width: 100%;          
+    width: 100px;          
     margin: 0px;                
 	padding: 0px;           
     text-align: center;
@@ -46,7 +47,7 @@ header {
 }
 
 header .logo {
-    width: 100%;          
+    width: 100px;          
     height: auto;           
 	display: block;     
 }
